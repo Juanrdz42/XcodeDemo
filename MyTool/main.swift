@@ -11,3 +11,5 @@ print("Italian: Benvenuto nella mia vita!")
 
 print("Spanish: Hola, mundo!")
 print("Spanish: Bienvenido a mi vida!")
+
+print("Portuguese: Olá, mundo!")
